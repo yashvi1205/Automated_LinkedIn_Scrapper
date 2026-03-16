@@ -1,0 +1,10 @@
+selenium
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+
+
+BOT_API_KEY to connect with telegram for notifications
+8692819022:AAHAvu1W0IRs81wMoQUG9rNBZlSmbJBlGvo
